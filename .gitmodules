@@ -1,3 +1,5 @@
 [submodule "weblib"]
 	path = weblib
-	url = git@github.com:gbuccigr/weblib.git
+	url = https://github.com/gbuccigr/weblib.git
+#
+#	url = git@github.com:gbuccigr/weblib.git
