@@ -1,0 +1,6 @@
+# sample documents to be displayed
+./docs/SampleDocument1.pdf : 'Sample PDF Document'
+./docs/SampleDocument2.pdf : 'Another Sample PDF Document'
+./docs/SampleDocument1.txt : 'Sample TEXT Document'
+./docs/SampleDocument2.txt : 'Another Sample TEXT Document'
+https://drive.google.com/drive/folders/1FfSfv4VMLONVeC9kXhwtrLZAas_q4vCa?usp=sharing : 'Link to Google Documents'

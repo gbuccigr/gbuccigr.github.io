@@ -1,0 +1,3 @@
+[submodule "weblib"]
+	path = weblib
+	url = git@github.com:gbuccigr/weblib.git
