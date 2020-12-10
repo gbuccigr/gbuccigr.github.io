@@ -1,6 +1,7 @@
 # sample pictures to be displayed
 ./pics/SamplePicture1.png : 'Example Picture One'
 ./pics/SamplePicture2.jpg : 'Another Example Picture'
-./pics/SamplePicture3.gif : 'Still Another Picture'
-./pics/SamplePicture4.jpg : 'Final Picture'
-https://photos.app.goo.gl/aMBSnFwAZVaraWGB7 : 'Link to Google Pictures'
+./pics/Default.jpg : 'Default Theme'
+./pics/Purple.jpg : 'Purple Theme'
+./pics/BlueRed.jpg : 'Blue Red Theme'
+https://photos.app.goo.gl/aMBSnFwAZVaraWGB7 : 'Link to Sample Themes'
